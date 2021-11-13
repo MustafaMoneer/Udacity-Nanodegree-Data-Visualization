@@ -39,4 +39,4 @@
 
 > There're no correlation in general between trip duration time and the trips start day, but the correlation getting stronger at the first 60 minutes, meaning that members mostly don't keep the bike over one hour. There were a perfect correspond between start day and end day in relation to ages and duration (min) in a log scale.
 
-> Interestingly, customers has the higher average of trip duration in minutes then subscribers, and males customers are the highest among other genders. and for both user type and member gender, weekend has the highest average of trip duration in minutes.
+> Interestingly, customers has the higher average of trip duration in minutes than subscribers, and males customers are the highest among other genders. and for both user type and member gender, weekend has the highest average of trip duration in minutes.
